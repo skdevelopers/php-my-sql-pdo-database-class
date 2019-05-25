@@ -1,4 +1,4 @@
-I am not maintaining this repository anymore and I would like to request you to find a better repo or make a fork of this repository!
+We will work on this from onword and will make it better by time Mian Salman @ SK Developers, CSoft IT Solutions!
 ============================
 
 PDO Database Class
